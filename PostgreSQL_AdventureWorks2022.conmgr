@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="PostgreSQL_AdventureWorks2022"
+  DTS:DTSID="{0BB00BAB-48F9-4FD6-8F1D-1ED720A9A78E}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Dsn=PostgreSQL_AdventureWorks2022;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
