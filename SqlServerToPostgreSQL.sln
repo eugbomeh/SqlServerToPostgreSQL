@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SqlServerToPostgreSQL", "SqlServerToPostgreSQL.dtproj", "{DC2FE4F3-6AF1-45A9-B832-C5995465A9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2FE4F3-6AF1-45A9-B832-C5995465A9FB}.Development|Default.ActiveCfg = Development
+		{DC2FE4F3-6AF1-45A9-B832-C5995465A9FB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB0541D9-8056-4110-BA3D-94C9B1C2E695}
+	EndGlobalSection
+EndGlobal
